@@ -16,6 +16,15 @@ Este proyecto consta de un pequeño programa de Java para poder convertir valore
 
 https://github.com/santi-haro/ConversorMonedasyTemperatura/assets/129322771/d9097fcf-650a-4157-95dc-76cc1f552587
 
+<p>
+  Para hacer posible este programa hice uso de los conocimientos acerca de la programacion orientada a objetos ya que cree diferentes clases para dividir el programa en partes mas faciles y entendibles.
+</p>
+
+<h2>Autor</h2>
+
+<p>
+Proyecto realizado por Santiago Haro
+</p>
 
 
 
